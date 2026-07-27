@@ -1,14 +1,14 @@
 [
   {
-    "slug": "hello-world",
-    "title": "Hello World",
-    "date": "2026-07-23",
-    "excerpt": "First note in the new system."
-  },
-  {
     "slug": "tokenomics",
     "title": "Tokenomics",
     "date": "2026-07-20",
     "excerpt": "Tokens as new currency in the AI era."
+  },
+  {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "date": "2026-07-19",
+    "excerpt": "First note in the new system."
   }
 ]
