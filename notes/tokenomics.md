@@ -1,10 +1,10 @@
 ---
 
-title: "Design Engineering"
+title: "Tokenomics"
 
 date: "2026-07-20"
 
-excerpt: "Notes on the overlap between design and code."
+excerpt: "Tokens as new currency in the AI era."
 
 ---
 
