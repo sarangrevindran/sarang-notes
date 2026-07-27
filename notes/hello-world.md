@@ -2,7 +2,7 @@
 
 title: "Hello World"
 
-date: "2026-07-23"
+date: "2026-07-19"
 
 excerpt: "First note in the new system."
 
